@@ -1,4 +1,4 @@
-# MIPS-Pocesssor-NON-PIPELINED
+# MIPS-Processsor-NON-PIPELINED
 Course Project for the course 2018EG201 by prof.Nandita Rao
 MIPS PROCESSOR NON PIPELINED
 
